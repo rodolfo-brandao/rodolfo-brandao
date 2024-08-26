@@ -1,1 +1,1 @@
-![Pokémon Crystal Gengar](./assets/pokemon-crystal-gengar.gif)
+![Scizor from Pokémon Crystal](./assets/pokemon-crystal-scizor.gif)
