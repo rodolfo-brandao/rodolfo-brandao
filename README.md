@@ -1,1 +1,1 @@
-![Scizor from Pokémon Crystal](./assets/pokemon-crystal-scizor.gif)
+![A green alien dancing](./assets/dancing-alien.gif)
