@@ -1,1 +1,1 @@
-![A green alien dancing](./assets/dancing-alien.gif)
+![Dragonite from Pokémon Crystal](./assets/pokemon-crystal-dragonite.gif)
