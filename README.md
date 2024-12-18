@@ -1,1 +1,1 @@
-![Dragonite from Pokémon Crystal](./assets/pokemon-crystal-dragonite.gif)
+![Gengar sprite from Pokémon Crystal](./assets/pokemon-crystal-gengar-sprite.gif)
