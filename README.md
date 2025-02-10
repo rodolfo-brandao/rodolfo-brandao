@@ -1,1 +1,1 @@
-![Gengar sprite from Pokémon Crystal](./assets/pokemon-crystal-gengar-sprite.gif)
+![Absol sprite from Pokémon Generation 5](./assets/pokemon-absol-gen5-sprite.gif)
