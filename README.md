@@ -1,1 +1,1 @@
-![Absol sprite from Pokémon Generation 5](./assets/pokemon-absol-gen5-sprite.gif)
+![Zapdos sprite GIF from Pokémon Black/White (gen5)](./assets/pokemon-zapdos-gen5-sprite.gif)
