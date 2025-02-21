@@ -1,1 +1,1 @@
-![Gengar sprite GIF from Pokémon Black/White (gen5)](./assets/pokemon-gengar-gen5-sprite.gif)
+![Gengar sprite GIF from Pokémon Crystal (gen2)](./assets/pokemon-gengar-gen2-sprite.gif)
