@@ -1,1 +1,1 @@
-![Scizor sprite GIF from Pokémon Crystal (gen2)](./assets/pokemon-scizor-gen2-sprite.gif)
+![The Meta Knight, from the video game series Kirby](./assets/meta-knight-walking.gif)
