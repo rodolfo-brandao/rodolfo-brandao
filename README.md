@@ -1,1 +1,1 @@
-![The video game character Kirby performing a sword strike](./assets/kirby-sword-move-small.gif)
+![The Meta Knight, from the video game series Kirby.](./assets/meta-knight.gif)
