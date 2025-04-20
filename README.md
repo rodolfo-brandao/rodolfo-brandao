@@ -1,1 +1,1 @@
-![The Meta Knight, from the video game series Kirby.](./assets/meta-knight.gif)
+![The Quad Damage from Quake 1 (1996)](./assets/quake-quad-damage.gif)
