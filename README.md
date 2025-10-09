@@ -1,1 +1,1 @@
-![The Quad Damage from Quake 1 (1996)](./assets/quake-quad-damage.gif)
+<img src="./assets/animal-well-blue-ghost.gif" width="70" />
