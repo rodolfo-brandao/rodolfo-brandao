@@ -1,1 +1,1 @@
-<img src="./assets/animal-well-blue-ghost.gif" width="70" />
+<img src="./assets/animal-well-blue-ghost.gif" width="50" />
