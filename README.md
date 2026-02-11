@@ -1,1 +1,1 @@
-<img src="./assets/doom-soulsphere.gif" width="60" />
+<img src="./assets/quake-quad-damage.gif" width="70" />
