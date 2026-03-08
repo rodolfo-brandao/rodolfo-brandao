@@ -1,1 +1,1 @@
-<img src="./assets/quake-quad-damage.gif" width="70" />
+<img src="assets/zortch-creep.png" width="100" alt="A creep from the Zortch videogame (2023)" />
