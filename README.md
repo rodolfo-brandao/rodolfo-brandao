@@ -1,1 +1,1 @@
-<img src="assets/earthworm-jim-pants.gif" width="120" alt="Earthworm Jim dropping his pants." />
+<img src="assets/zortch-creep.png" width="100" alt="A Creep from the Zortch videogame (2023)" />
