@@ -1,1 +1,1 @@
-<img src="assets/quake-quad-damage.gif" width="80" alt="Quake (1996) Quad Damage Powerup" />
+<img src="assets/zortch-creep.png" width="100" alt="Quake (1996) Quad Damage Powerup" />
